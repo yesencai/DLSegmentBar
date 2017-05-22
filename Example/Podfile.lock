@@ -1,0 +1,23 @@
+PODS:
+  - DLSegmentBar (0.1.0)
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+
+DEPENDENCIES:
+  - DLSegmentBar (from `../`)
+  - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  DLSegmentBar:
+    :path: ../
+
+SPEC CHECKSUMS:
+  DLSegmentBar: 2f439fe6fb116d3159c82af99acfef6a2f87abdc
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+
+PODFILE CHECKSUM: 14da1b1c56ff1d578ba0a840a39cc53a2aaee0dd
+
+COCOAPODS: 1.2.1
